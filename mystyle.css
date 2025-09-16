@@ -68,6 +68,14 @@ li{
     margin: 20px;
 }
 
+.menu-category{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 50px;
+    column-gap: 50px;
+    margin: 20px; 
+}
+
 .menu-item{
     background-color: rgb(186, 186, 186);
     padding: 10px;
@@ -81,26 +89,6 @@ li{
     background-repeat: none;
     width: 250px;
     height: 180px;
-}
-
-.box-table{
-    margin-top: 20px;
-}
-
-.table{
-    color: white;
-    background-color: rgb(92, 92, 92);
-    text-align: center;
-    margin: auto;
-    max-width: 1000px;
-}
-
-th{
-    background-color: rgb(40, 40, 40);
-}
-
-tr{
-    background-color: rgb(186, 186, 186);
 }
 
 .bottom-footer{
