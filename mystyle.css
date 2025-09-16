@@ -15,6 +15,7 @@ html, body{
     box-shadow: 0px 4px 4px 4px black;
     font-family: "Mystery Quest", system-ui;
     font-style: normal;
+    margin-bottom: 30px;
 }
 
 #welcome{
