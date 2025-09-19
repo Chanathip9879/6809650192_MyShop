@@ -59,6 +59,7 @@ li{
     background-color: rgb(40, 40, 40);
     color: white;
     font-size: 20px;
+    margin-top: 20px;
 }
 
 .menu-box{
@@ -96,6 +97,16 @@ li{
     text-decoration: none;
     color: black;
     font-weight: bold;
+}
+
+.backbox{
+    display: inline-block;
+    color: white;
+    margin: 10px;
+}
+
+.backhome{
+    width: 5%;
 }
 
 .bottom-footer{
